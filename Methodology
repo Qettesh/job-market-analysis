@@ -16,6 +16,19 @@ This is the most unique part of my  project:
 "If IBM receives 100,000 applicants and hires X, how many candidates with X background historically make it through each stage?" [market ana...jobs.docx | Word]
 This is how I define it:
 
+Candidate Expected Value (EV)
+The Candidate Expected Value (EV) model estimates the potential value of pursuing employment opportunities by combining hiring probability, career value, and retention probability.
+
+\text{Candidate EV} = P(\text{Hire}) \times \text{Career Value} \times \text{Retention Probability}
+Where:
+
+P(Hire) = Probability of successfully obtaining the position
+Career Value = Estimated value of the role (salary, growth, experience, network effects, etc.)
+Retention Probability = Probability of remaining employed long enough to realize the expected value
+Interpretation
+A position with a high salary but low hiring probability may have a lower expected value than a position with a moderate salary and significantly higher hiring probability.
+
+This framework treats career decisions similarly to investment decisions by evaluating both risk and reward.
  
 Then I compare:
 •	IBM
