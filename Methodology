@@ -1,0 +1,28 @@
+Research Note: This document combines publicly reported workforce data with analytical estimates and opinion-based scoring models. Estimated values are intended for comparative analysis and should not be interpreted as official company statistics.
+
+Methodology Section
+
+Explanation of the process:
+1.	Collect public workforce counts.
+2.	Review layoff trends.
+3.	Review public litigation and EEOC actions.
+4.	Review employee review platforms.
+5.	Estimate hiring funnels where data is unavailable.
+6.	Score growth hiring versus replacement hiring.
+7.	Compare candidate expected value.
+
+Build: The Candidate EV Formula
+This is the most unique part of my  project:
+"If IBM receives 100,000 applicants and hires X, how many candidates with X background historically make it through each stage?" [market ana...jobs.docx | Word]
+This is how I define it:
+
+ 
+Then I compare:
+•	IBM
+•	Microsoft
+•	Google
+•	Amazon
+•	Self-employment
+•	Contracting
+•	Trading
+using the same analytical framework.
